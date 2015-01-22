@@ -8,7 +8,7 @@
     "save_request": 0,
     "save_response": 0,
     "delete_if_successful": 0,
-    "package_url": "http://www.github.com/<<YourGithubAccount>>/pilr.testjob.r",
+    "package_url": "http://www.github.com/<<YourGithubAccount>>/pilrdpu",
     "package_function": "test_job",
     "resource_path": "/github/MeiResearchLtd/pilr.dpu.r/R/pilr_dpu",
     "input_datasets": [],
