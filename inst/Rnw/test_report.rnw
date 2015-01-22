@@ -1,0 +1,7 @@
+\documentclass{article}
+
+\begin{document}
+
+This is the greatest and best report in the world....tribute.
+
+\end{document}
